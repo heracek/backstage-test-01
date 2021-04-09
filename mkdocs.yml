@@ -1,0 +1,7 @@
+site_name: 'backstage-test-01-docs'
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
