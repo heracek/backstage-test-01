@@ -4,7 +4,7 @@ metadata:
   name: backstage-test-01
   description: |
     This is a test
-  links:
+  links: []
 #     - title: Website
 #       url: http://backstage.io
 #     - title: Documentation
