@@ -7,12 +7,12 @@ metadata:
   links:
     - title: Website
       url: http://backstage.io
-#     - title: Documentation
-#       url: https://backstage.io/docs
-#     - title: Storybook
-#       url: https://backstage.io/storybook
-#     - title: Discord Chat
-#       url: https://discord.com/invite/EBHEGzX
+    - title: Documentation
+      url: https://backstage.io/docs
+    - title: Storybook
+      url: https://backstage.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
   annotations:
     github.com/project-slug: heracek/backstage-test-01
     backstage.io/techdocs-ref: url:https://github.com/heracek/backstage-test-01
