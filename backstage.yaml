@@ -3,3 +3,11 @@ kind: Component
 metadata:
   name: backstage-test-01
   description: This is some component
+  tags:
+    - java
+    - data
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-a
+#   system: artist-engagement-portal
