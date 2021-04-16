@@ -1,7 +1,9 @@
-site_name: 'backstage-test-01-docs'
+site_name: "backstage-test-01-docs"
 
 nav:
   - Home: index.md
+  - Architecture: architecture.md
+  - Example: example.md
 
 plugins:
   - techdocs-core
