@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test-01
+  description: A Service with TechDocs documentation
+  annotations:
+    # backstage.io/techdocs-ref: 'url:https://github.com/backstage/backstage/tree/master/plugins/techdocs-backend/examples/documented-component'
+    backstage.io/techdocs-ref: "url:https://github.com/heracek/backstage-test-01/tree/main"
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:guest
