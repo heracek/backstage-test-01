@@ -4,6 +4,9 @@ nav:
   - Home: index.md
   - Architecture: architecture.md
   - Example: example.md
+  - "User Guide":
+      - "Writing your docs": "user-guide/writing.md"
+      - "Styling your docs": "user-guide/styling.md"
 
 plugins:
   - techdocs-core

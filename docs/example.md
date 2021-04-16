@@ -1,6 +1,4 @@
-# Oracula noctem de vetustas delatus utrimque servati
-
-## Turbaeque dedisses forsitan fertur
+# Example
 
 Lorem markdownum sternit gemino [quiete](http://fratri.io/sumptumqueloquar.html)
 acres ignem, potest ilex, ite fuit quod supple culpa de? [Neptunia

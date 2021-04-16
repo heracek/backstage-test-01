@@ -1,7 +1,5 @@
 # This is Backstage Test 01
 
-## Quos aura aut
-
 Lorem markdownum membris paludem teloque refovet et volvens invita [et
 abditus](http://mors.io/autumni.html) parabat contigit formamque _series_
 stamina grates. Ante vina reddi, ense aras iramque Phoeboque de est. Conamine

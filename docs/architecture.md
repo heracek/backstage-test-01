@@ -1,6 +1,4 @@
-# Deus affata solo
-
-## Vitae icta quod illa utque
+# Architecture
 
 Lorem markdownum maris, quoque; flammis est, una circumdare manus irascitur.
 Locus novi, ros vestrum haec illic foedere nemus ante vitare, ait caede,
